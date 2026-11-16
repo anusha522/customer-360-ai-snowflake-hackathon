@@ -1,0 +1,7 @@
+# Snowflake Streamlit-in-Snowflake (SiS) environment
+# These packages are auto-provided by SiS — no pip install needed for deployment.
+# This file is for documentation and local development only.
+
+snowflake-snowpark-python
+streamlit
+pandas
